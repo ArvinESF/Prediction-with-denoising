@@ -7,10 +7,10 @@ The main objective of the project is to provide a simple and easily understandab
 
 To run the project, you need to have the following installed on your machine:
 
-Python 3.x
-NumPy
-Matplotlib
-Scikit-learn
+1. Python 3.x
+2. NumPy
+3. Matplotlib
+4. Scikit-learn
 All library that you need is imported in the file
 
 # Getting Started
